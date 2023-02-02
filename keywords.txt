@@ -6,9 +6,8 @@ eleven
 香港
 台湾
 央视
-cctv
+cctv1
 凤凰
-鳳凰
-星卫
-星衛
-臺灣
+cctv2
+CCTV
+4K
