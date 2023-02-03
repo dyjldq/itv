@@ -1,9 +1,4 @@
-discovery
-viu
-tvb
-hbo
-香港
-台湾
+4K
 央视
 CCTV1
 CCTV2
@@ -26,3 +21,9 @@ CCTV17
 CCTV4K
 CCTV-4K
 欢笑剧场4k
+discovery
+viu
+tvb
+hbo
+香港
+台湾
