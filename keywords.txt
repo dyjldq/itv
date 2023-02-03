@@ -2,7 +2,6 @@ discovery
 viu
 tvb
 hbo
-eleven
 香港
 台湾
 央视
@@ -24,3 +23,4 @@ CCTV14
 CCTV15
 CCTV16
 CCTV17
+4K
