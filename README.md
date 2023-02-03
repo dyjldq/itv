@@ -19,5 +19,5 @@
 
 ## 订阅地址
 
-`https://raw.githubusercontent.com/popeyelau/itv/main/merged.m3u`
-`https://ghproxy.com/https://raw.githubusercontent.com/popeyelau/itv/main/merged.m3u`
+`https://raw.githubusercontent.com/dlonzyz/itv/main/merged.m3u`
+`https://ghproxy.com/https://raw.githubusercontent.com/dlonzyz/itv/main/merged.m3u`
