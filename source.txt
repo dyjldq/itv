@@ -1,8 +1,4 @@
-https://telegram-feiyangdigital.v1.mk/bestv.m3u
-https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u
-https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u
-https://telegram-feiyangdigital.v1.mk/ghyx.m3u
-https://football.v1.mk
-https://telegram-feiyangdigital.v1.mk/gudou.m3u
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
-https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
+https://raw.githubusercontent.com/n3rddd/CTVLive2/refs/heads/main/merged_output.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u
